@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\Janeth\OneDrive\Documentos\9no Semestre\Servicios Web\Practica5_A190476\libros.xsl"?>
+<libros>
+    <libro>
+        <nombre>Z4Ever</nombre>
+        <autor>Juan Ignacio Meira Arasmou</autor>
+        <anyopublicacion>2017</anyopublicacion>
+    </libro>
+    <libro>
+        <nombre>Palabras Ocultas</nombre>
+        <autor>Miguel Ángel Martos Bello</autor>
+        <anyopublicacion>2017</anyopublicacion>
+    </libro>
+    <libro>
+        <nombre>Darko: un cuento urbano</nombre>
+        <autor>Jose Manuel Ruiz Barón</autor>
+        <anyopublicacion>2017</anyopublicacion>
+    </libro>
+</libros>
